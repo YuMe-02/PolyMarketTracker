@@ -1,0 +1,28 @@
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# API interactions
+web3==6.11.3
+gql==3.4.1
+aiohttp==3.9.1
+
+# Data handling
+pandas==2.1.4
+numpy==1.26.2
+
+# Database
+sqlalchemy==2.0.23
+
+# Dashboard
+streamlit==1.29.0
+plotly==5.18.0
+altair==5.2.0
+
+# Analysis
+scipy==1.11.4
+networkx==3.2.1
+scikit-learn==1.3.2
+
+# Utilities
+python-dotenv==1.0.0
